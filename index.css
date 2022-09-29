@@ -1,0 +1,56 @@
+body{
+    background-color:aliceblue;
+}
+
+.groot{
+    background-color: rgb(118, 240, 240);
+    margin: 40px;
+}
+.gurdianOfGallaxy{
+    color:indigo;
+    background-color: blanchedalmond;
+    padding:40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.done{
+    background-color: black;
+    height: 200px;
+    width: 100px;
+}
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.container{
+   
+    margin: auto;
+    width:500px;
+    color:blue;
+}
+
+.box{
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 2px 5px 2px rgb(211, 209, 209);
+    background-color: white;
+    text-align: center;
+    border-radius: 2px;
+    color:grey !important;
+}
+h2{
+    color:#212F3D;
+}
+ a{
+    text-decoration: none;
+ }
+ .apple{
+    color:darkolivegreen;
+ }
+ .mango{
+    color:#1A5276;
+ }
+ #hobbie{
+    color:blue;
+ }
